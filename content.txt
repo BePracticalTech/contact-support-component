@@ -1,0 +1,9 @@
+(paragraph)
+Sample text. Click to select the text box. Click again or double click to start editing the text.
+
+(heading)
+CONTACT US
+
+(button text)
+Submit
+
